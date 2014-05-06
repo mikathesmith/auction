@@ -1,12 +1,12 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
+# Name:        Auction
 # Purpose:
 #
-# Author:      Smith Family
+# Author:      Mika Smith
 #
-# Created:     01/05/2014
-# Copyright:   (c) Smith Family 2014
-# Licence:     <your licence>
+# Created:     06/05/2014
+# Copyright:   (c) Mika Smith 2014
+# Licence:     <Creative Commons>
 #-------------------------------------------------------------------------------
 #!/usr/bin/env python
 
